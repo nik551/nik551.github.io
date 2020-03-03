@@ -1,9 +1,6 @@
-# WHy did I want to join CS-STAR 
+**Why did I want to join CS-STAR** 
 
+I like **CSSTAR** because I like to learn new CS techniques and web development. 
 
-
-
-I like **CSSTAR** because I like to to learn computing and web development 
-
-
-- 
+**What are my interests**
+I am interested in web development and  to learn 
